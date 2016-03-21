@@ -167,7 +167,7 @@ public class Example1a implements IFloodlightModule, IOFMessageListener {
 	                context.getServiceImpl(IFloodlightProviderService.class); //get controller instance 
 		 log = LoggerFactory.getLogger(Example1a.class); //create logger class 
 	
-	        log.info("PExample 1a module initialized");
+	        log.info("Example 1- Scenario A module initialized");
 		
 	}
 
